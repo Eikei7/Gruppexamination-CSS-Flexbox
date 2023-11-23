@@ -1,3 +1,3 @@
 # Gruppexamination CSS Flexbox
-Frontendutveckling Folkuniversitetet Göteborg
- 
+Folkuniversitetet Göteborg > Frontendutveckling -23 > HTML & CSS 
+Gruppmedlemmar: Emma Dybdorf, Ann Heijkenskjöld, Erik Karlsson
