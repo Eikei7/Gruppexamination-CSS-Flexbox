@@ -173,36 +173,36 @@ footer {
     background-color: #4f4f4f;
     justify-content: center;
 }
-footer-links, footer-aboutus, footer-socialmedia {
+.footer-links, .footer-aboutus, .footer-socialmedia {
     color: white;
     width: 300px;
     font-family: 'Ubuntu';
 }
-footer-links {
+.footer-links {
     justify-content: left;
     text-align: left;
 }
 
-footer-links ul {
+.footer-links ul {
     list-style-type: none;
     flex-direction: column;
 }
-footer-links ul li {
+.footer-links ul li {
     padding-top: 10px;
     padding-bottom: 10px;
 }
-footer-aboutus {
+.footer-aboutus {
     text-align: left;
     justify-content: left;
     width: 250px;
 }
-footer-aboutus p {
+.footer-aboutus p {
     padding-top: 10px;
 }
-footer-socialmedia {
+.footer-socialmedia {
     padding-left: 50px;
 }
-footer-socialmedia img {
+.footer-socialmedia img {
     padding-top: 10px;
     padding-right: 10px;
 }
@@ -243,11 +243,11 @@ footer-socialmedia img {
         flex-direction: column;
         height: 50vh;
     }
-    footer-links {
+    .footer-links {
         display: none;
     }
 
-    footer-socialmedia {
+    .footer-socialmedia {
         padding-left: 0px;
         width: 250px;
     }
